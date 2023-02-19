@@ -32,4 +32,3 @@ print("Maximum value:", max_num)
 print("Minimum value:", min_num)
 print("Number of even numbers:", even_count)
 print("Number of odd numbers: ", odd_count)
-
