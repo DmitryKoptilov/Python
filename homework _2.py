@@ -3,5 +3,7 @@ k = 36
 print("apples in a basket", k % n)
 print("Apples for every student", k // n)
 
+print("apples in a basket")
+
 
 
